@@ -3,5 +3,6 @@
 
  I am Abdulhamid Oumer A full stack javascript developer born and raised at Addiss Ababa, Ethiopia. I am currently employed at Addis Software PLC. I usually work with the M.E.R.N (MongoDB, Express, React & NodeJS) stack. I am also learning Shopify's liquid template language. 
 
+- 🛠️ My toolbelts include React, Node JS, Mongo DB, Wordpress & Shopify 
 - ✍🏾 Just started [blogging](https://dev.to/dashboard) on Dev.to
 - 🐦 I share some thoughts on [twitter](https://twitter.com/aotwits)
